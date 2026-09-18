@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Environment variables / secrets
+.env
+
+# Chroma database
+db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
